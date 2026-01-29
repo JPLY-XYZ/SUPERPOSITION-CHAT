@@ -41,7 +41,7 @@ El orden de implementación sigue una lógica de dependencia, desde la infraestr
 
 * **Versionado:** Uso de Git con 2 proyectos separados.
 * **Entorno:** Se hacian pruebas en local, y un despliege final de la api.
-* **Documentación:** Registro de endpoints en un archivo de colección (tipo Postman o Insomnia).
+* **Documentación:** Registro de endpoints, comentarios alrededor de todo el codigo.
 
 #### Pruebas (Testing)
 
