@@ -1,5 +1,3 @@
----
-
 ## Gestión de Permisos, Licencias y Riesgos
 
 ### 1. Permisos y Autorizaciones Necesarias
@@ -46,4 +44,3 @@ Para mitigar los riesgos identificados, se establece el siguiente protocolo:
 * **Plan de Contingencia ante Caídas:** Si el contenedor Docker falla, el sistema cuenta con un *restart policy* automático (`restart: always`).
 * **Backup de Base de Datos:** Ejecución de *dumps* diarios automáticos de PostgreSQL para evitar pérdida de historial de mensajes no entregados.
 
----
