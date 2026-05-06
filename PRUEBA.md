@@ -19,9 +19,10 @@ Para probar la aplicación móvil de forma inmediata, sigue estos pasos:
 
 ### Paso 1: Instalación de la app movil
 
-1. Descarga la aplicación [AQUI](https://github.com/JPLY-XYZ/SUPERPOSITION-CHAT/releases/tag/1.0.3) o escanea el siguiente QR en tu dispositivo móvil.
+1. Descarga la aplicación [AQUI](https://github.com/JPLY-XYZ/SUPERPOSITION-CHAT/releases/tag/1.0.4) o escanea el siguiente QR en tu dispositivo móvil.
 
-<img width="341" height="335" alt="image" src="https://github.com/user-attachments/assets/8645fae9-9134-493a-ac66-328f4d52790c" />
+<img width="402" height="407" alt="image" src="https://github.com/user-attachments/assets/8864a76f-1bd8-4dd5-9af3-b25c5816ab46" />
+
 
 
 #### ***Asegúrate de que tu móvil tenga conexión a internet.***
@@ -75,6 +76,5 @@ npx expo start
 Para facilitar la validación, los repositorios incluyen:
 
 * **`.env.example`:** Archivo de ejemplo con las variables de entorno necesarias.
-* **`.env.example`:** Script dentro de la carpeta del backend para inicializar las tablas de mensajes y usuarios.
 
 ---
